@@ -7,6 +7,6 @@ dss_file=r"C:\Users\anup.parajuli\Desktop\pythonProject\123_JPT.dss"
 dss.text(f"compile [{dss_file}")
 dss.solution_solve()
 #v=dss.text("show voltages LN nodes")
-print(data)
+
 
 
